@@ -1,1 +1,1 @@
-# Reciper-app-api
+# Recipe-app-api
